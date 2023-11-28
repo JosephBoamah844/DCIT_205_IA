@@ -16,8 +16,8 @@ This website aims to be a central resource for all things related to the Compute
 5.Explore the website pages located in the respective folders.
 
 # Author Information
-Name: [Your Name]
-Student ID: [Your Student ID]
+Name: [Joseph Boamah]
+Student ID: [11026285]
 
 # Screenshots
 Page 1: ![Alt text](image.png)  ![Alt text](image-1.png) ![Alt text](image-3.png) ![Alt text](image-2.png) ![Alt text](image-4.png)
