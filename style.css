@@ -346,9 +346,6 @@ main {
 }
 
 
-
-
-
 .video-container {
     position: center;
     display: block;
@@ -357,7 +354,7 @@ main {
     width: 100%;
     max-width: fit-content;
     max-height: fit-content;
-    margin: 50px auto; /* Adjust the margin as needed */
+    margin: 50px auto; 
     
 }
 
@@ -365,7 +362,7 @@ main {
     width: 100%;
     height: auto;
     display: block;
-    filter: brightness(0.5) sepia(1) hue-rotate(200deg) saturate(80%); /* Adjust values for the desired tint and brightness */
+    filter: brightness(0.5) sepia(1) hue-rotate(200deg) saturate(80%); 
 }
 
 
@@ -376,7 +373,7 @@ main {
     color: white;
     text-align: center;
     font-size: 150px;
-    padding: 20px; /* Adjust padding as needed */
+    padding: 20px; 
     margin-left: 1100px;
     margin-top: 650px;
 }
@@ -388,8 +385,8 @@ main {
     z-index: 1;
     display: block;
     align-items: center;
-    border-radius: 10px; /* Optional: Add border radius for a rounded appearance */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add box shadow for a subtle lift */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     width: 5000px;
     height: 3000px;
     margin-right: 200px;
@@ -397,18 +394,17 @@ main {
     margin-bottom: 1800px;
 }
 
-/* Optional: Style the video controls */
 .styled-video::-webkit-media-controls {
     color: rgb(19, 66, 95);
 }
 
 .styled-video::-webkit-media-controls-play-button,
 .styled-video::-webkit-media-controls-start-playback-button {
-    color: #6f5c27; /* Set the play button color */
+    color: #6f5c27; 
 }
 
 .styled-video::-webkit-media-controls-timeline {
-    background-color: #6f5c27; /* Set the timeline background color */
+    background-color: #6f5c27; 
 }
 
 
@@ -418,14 +414,14 @@ main {
     width: 1000px;
     border-radius: 8px; 
     box-shadow: 0 2px 4px rgb(19, 66, 95);  
-    position: relative; /* Added position relative */
+    position: relative; 
     z-index: 1;
-    margin-bottom: 0px; /* Adjust the margin as needed */
+    margin-bottom: 0px; 
     margin-right: 300px;
     margin-left: 200px;
     width: 100%;
     max-width: 90%;
-    filter: brightness(0.5) sepia(1) hue-rotate(200deg) saturate(80%); /* Adjust values for the desired tint and brightness */
+    filter: brightness(0.5) sepia(1) hue-rotate(200deg) saturate(80%); 
 
     }
 
@@ -643,9 +639,6 @@ main {
     font-family:'Arial', sans-serif;
     margin-bottom: 0px;
 }
-
-
-/* Your existing styles */
 
 footer {
     text-align: center;
